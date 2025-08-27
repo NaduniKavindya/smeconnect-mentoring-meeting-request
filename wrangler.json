@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "smeconnect-mentoring-meeting-request",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9c280383-e7d4-461a-830a-6c1f3d8863e3",
+      "database_name": "meeting-request"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
